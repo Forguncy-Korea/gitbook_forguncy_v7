@@ -1,14 +1,14 @@
 # bind 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365423/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) 메서드 <a href="#bind-fang-fa-fang-fa" id="bind-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#bind-fang-fa-fang-fa" id="bind-fang-fa-fang-fa"></a>
 
 &#x20;  ListView.bind(type, data, fn)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365423/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) 설명 <a href="#bind-fang-fa-miao-shu" id="bind-fang-fa-miao-shu"></a>
+#### &#x20;설명 <a href="#bind-fang-fa-miao-shu" id="bind-fang-fa-miao-shu"></a>
 
 &#x20;  선택한 리스트뷰에 하나 이상의 이벤트 처리기를 추가하고 이벤트가 발생할 때 실행되는 함수를 지정합니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365423/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) **매개 변수**  <a href="#bind-fang-fa-can-shu-shuo-ming" id="bind-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수**  <a href="#bind-fang-fa-can-shu-shuo-ming" id="bind-fang-fa-can-shu-shuo-ming"></a>
 
 <table><thead><tr><th width="142">매개변수 </th><th width="141">형식 </th><th width="169">필수여부</th><th>설명 </th></tr></thead><tbody><tr><td>type</td><td>string</td><td>Yes</td><td>이벤트 형식을 나타내는 문자열입니다. 리스트뷰에서 지원되는 이벤트는 ListViewEvents 클래스 를 참조하십시오.</td></tr><tr><td>data</td><td>any</td><td>No</td><td>이벤트 처리기에 전달된 사용자 지정 매개 변수를 무시하지 않는 경우 선택적 매개 변수입니다.</td></tr><tr><td>fn</td><td>function</td><td>Yes</td><td>이벤트 처리기입니다.</td></tr></tbody></table>
 

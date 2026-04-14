@@ -185,7 +185,6 @@
   * [보고서 만들기](components/report/create.md)
   * [보고서 디자이너 및 일반적인 작업](components/report/designer/README.md)
     * [SQL 실행 명령](components/report/designer/sql.md)
-    * [저장 프로시저 호출하기](components/report/designer/procedure.md)
   * [테이블 구성 요소를 사용하여 보고서를 디자인하기](components/report/design/README.md)
     * [단일 수준 그룹화 및 통계](components/report/design/group.md)
     * [여러개 그룹화 및 통계](components/report/design/multigrouping.md)

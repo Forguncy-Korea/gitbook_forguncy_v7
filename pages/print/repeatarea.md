@@ -8,13 +8,13 @@
 
 인쇄된 페이지에 데이터가 많고 인쇄 결과가 여러 페이지인 경우 맨 위 머리글 행과 왼쪽 머리글 열을 설정하여 각 인쇄 페이지에 제목 데이터를 표시합니다.
 
-리본 메뉴 모음에서 \[보고]를 선택하거나, 페이지 설정 대화 상자를 클릭하고, \[페이지] 탭을 클릭하고, 인쇄 머리글 영역에서 맨 위 머리글 행과 왼쪽 머리글 열을 설정합니다.![](https://help.grapecity.com.cn/download/thumbnails/72356550/image2020-3-16_11-7-18.png?version=1\&modificationDate=1648092593000\&api=v2)
+리본 메뉴 모음에서 \[보고]를 선택하거나, 페이지 설정 대화 상자를 클릭하고, \[페이지] 탭을 클릭하고, 인쇄 머리글 영역에서 맨 위 머리글 행과 왼쪽 머리글 열을 설정합니다.
 
 ![](<../../.gitbook/assets/image (283).png>)
 
 **위쪽에서 반복할 행 수**&#x20;
 
-위쪽에서 반복할 행 수를 클릭한 후 페이지에서 반복할 머리글 행을 선택합니다.![](https://help.grapecity.com.cn/download/thumbnails/72356550/image2020-3-16_11-10-18.png?version=1\&modificationDate=1648092593000\&api=v2)
+위쪽에서 반복할 행 수를 클릭한 후 페이지에서 반복할 머리글 행을 선택합니다.
 
 ![](<../../.gitbook/assets/image (1348).png>)
 
@@ -24,7 +24,7 @@
 
 **왼쪽에서 반복할 열 수**&#x20;
 
-왼쪽 머리글 열 행을 클릭한 후 페이지에서 반복할 머리글 열을 선택합니다.![](https://help.grapecity.com.cn/download/thumbnails/72356550/image2020-3-16_11-10-18.png?version=1\&modificationDate=1648092593000\&api=v2)
+왼쪽 머리글 열 행을 클릭한 후 페이지에서 반복할 머리글 열을 선택합니다.
 
 ![](<../../.gitbook/assets/image (1283).png>)
 

@@ -1,22 +1,22 @@
 # getDataTableName 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365486/blue%20block.png?version=1\&modificationDate=1648092730000\&api=v2) 메서드 <a href="#getdatatablename-fang-fa-fang-fa" id="getdatatablename-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#getdatatablename-fang-fa-fang-fa" id="getdatatablename-fang-fa-fang-fa"></a>
 
 &#x20;  ListView.getDataTableName()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365486/blue%20block.png?version=1\&modificationDate=1648092730000\&api=v2) 설명 <a href="#getdatatablename-fang-fa-miao-shu" id="getdatatablename-fang-fa-miao-shu"></a>
+#### 설명 <a href="#getdatatablename-fang-fa-miao-shu" id="getdatatablename-fang-fa-miao-shu"></a>
 
 리스트뷰 바인딩된 데이터 테이블 또는 뷰의 이름을 가져옵니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365486/blue%20block.png?version=1\&modificationDate=1648092730000\&api=v2) **매개 변수**  <a href="#getdatatablename-fang-fa-can-shu-shuo-ming" id="getdatatablename-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수**  <a href="#getdatatablename-fang-fa-can-shu-shuo-ming" id="getdatatablename-fang-fa-can-shu-shuo-ming"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365486/blue%20block.png?version=1\&modificationDate=1648092730000\&api=v2) **반환** <a href="#getdatatablename-fang-fa-fan-hui-zhi" id="getdatatablename-fang-fa-fan-hui-zhi"></a>
+#### **반환** <a href="#getdatatablename-fang-fa-fan-hui-zhi" id="getdatatablename-fang-fa-fan-hui-zhi"></a>
 
 &#x20;  string
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365486/blue%20block.png?version=1\&modificationDate=1648092730000\&api=v2) 예제 <a href="#getdatatablename-fang-fa-shi-li" id="getdatatablename-fang-fa-shi-li"></a>
+#### 예제 <a href="#getdatatablename-fang-fa-shi-li" id="getdatatablename-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 getDataTableName 메서드를 사용하여 리스트에 바인딩된 데이터 테이블 또는 뷰의 이름을 가져옵니다.
 
