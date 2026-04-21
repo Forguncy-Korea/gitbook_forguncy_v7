@@ -519,7 +519,6 @@
   * [암호 정책](or-server/setting_user_role_group/pw.md)
 * [사용자 보안 공급자](or-server/securityprovider/README.md)
   * [Windows 도메인](or-server/securityprovider/windowsdomain.md)
-  * [보안 공급자를 구현하는 방법](or-server/securityprovider/methodsecurityprovider.md)
 * [서버단 응용 프로그램 관리](or-server/adminapp/README.md)
   * [기본작업](or-server/adminapp/basic.md)
   * [기본 응용 프로그램 설정](or-server/adminapp/setbasicapp.md)

@@ -18,6 +18,3 @@
 
 일부 웹 사이트는 Google, Microsoft, WeChat 등과 같은 OpenId(Oauth2) 인증 서비스를 제공합니다. 포건시 사용자가 응용 프로그램에 액세스하면 포건시 페이지가 타사 웹 사이트 로그인 페이지로 리디렉션되고 사용자가 타사 웹 사이트에 로그인할 수 있으며 브라우저가 자동으로 포건시로 다시 이동하고 자동으로 로그인합니다. 타사 웹 사이트에 이미 로그인한 경우 포건시 프로그램은 타사 웹 사이트의 동일한 계정을 통해 포건시 응용 프로그램에 자동으로 로그인합니다.
 
-**보안 공급자 API입니다**
-
-[보안 공급자 API.chm](https://help.grapecity.com.cn/download/attachments/72363759/%E5%AE%89%E5%85%A8%E6%8F%90%E4%BE%9B%E7%A8%8B%E5%BA%8FAPI.chm?version=1\&modificationDate=1648092705000\&api=v2)
